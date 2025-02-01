@@ -4,18 +4,17 @@ I've put together this React Flow template with a static panel to serve as a sta
 
 ## Getting up and running
 
-First, install
+Install
 
 ```bash
 npm i
 ```
 
+Run
+
 ```bash
 npm run dev
 ```
-
-Vite is a great development server and build tool that we recommend our users to
-use. You can start a development server with:
 
 ## Resources
 
